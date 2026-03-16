@@ -6,6 +6,9 @@ pymongo
 pymongo[srv]
 scikit-learn
 matplotlib
+dill
+pyaml
+
 
 
 ##-e .
